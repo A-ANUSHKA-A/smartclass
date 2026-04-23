@@ -1,0 +1,4 @@
+project_id = "omuywqfacjahbazzixlg"
+
+[functions.ai-timetable]
+verify_jwt = true
