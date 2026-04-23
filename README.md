@@ -1,9 +1,24 @@
 📚 Smart Classroom & Resource Allocation System
-A smart AI-powered classroom management system designed to optimize timetable scheduling, resource allocation, and reduce conflicts between faculty and student schedules.
-🚀 Live Demo
-👉 Deployed on Cloudflare Pages
+
+SmartClass is a web-based Smart Classroom Resource Allocation System that integrates scheduling, faculty workload, classrooms, student records, and attendance into one unified platform — powered by Google Gemini 🤖.
+Key Highlights:
+
+
+👥 Role-based system: Admin | Faculty | Student
+
+⚡ Real-time conflict detection (rooms, faculty, capacity)
+
+🧠 AI-powered timetable optimization (Gemini)
+
+☁️ Secure cloud backend with real-time updates
+
+
+
+👉 Deployed on Cloudflare Page
 
 https://tanstack-start-app.smartclass-app.workers.dev
+
+
 
 🧠 Features
 📅 Intelligent timetable generation
