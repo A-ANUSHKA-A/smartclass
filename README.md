@@ -189,7 +189,7 @@ Hack2Skill
 
 Built by:
 
-Anushka Singh
+Anushka Singh ,
 Akansha Kushwaha
 
 
