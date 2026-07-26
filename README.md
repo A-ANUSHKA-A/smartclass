@@ -14,10 +14,14 @@ Key Highlights:
 
 
 
-👉 Deployed on Cloudflare Page
+👉 Deployed on Cloudflare Page :
 
 https://tanstack-start-app.smartclass-app.workers.dev
 
+
+⚡Demo video : 
+
+https://youtu.be/hmuaQUeWbrk?si=6Dre84KteZdPbmWN
 
 
 🧠 Features
@@ -28,5 +32,7 @@ https://tanstack-start-app.smartclass-app.workers.dev
 📊 Real-time schedule visualization
 ☁️ Cloud deployment (Cloudflare Pages)
 
-🧩 Previous Deployment Note
+
+
+🧩 Previous Deployment Note :
 A previous deployment attempt using Vercel was unsuccessful and has been deprecated. The project is now fully hosted on Cloudflare Pages.
