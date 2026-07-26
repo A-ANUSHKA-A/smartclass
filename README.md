@@ -147,22 +147,21 @@ Built using modern cloud technologies for accessibility and scalability.
 ---
 
 # 🏗️ System Architecture
-             User
-              |
-              |
-      Cloudflare Workers
-      (Frontend Application)
-              |
-              |
-          Supabase
-    -------------------
-    |        |        |
-  Auth    Database   Edge
-                     Functions
-                         |
-                         |
-                     Gemini AI
 
+```mermaid
+flowchart TD
+    A[User] --> B[Cloudflare Workers<br/>Frontend Application]
+
+    B --> C[Supabase Backend]
+
+    C --> D[Authentication]
+    C --> E[PostgreSQL Database]
+    C --> F[Edge Functions]
+
+    F --> G[Gemini AI<br/>Generative AI Engine]
+
+    E --> H[Academic Data<br/>Timetable, Users, Resources]
+```
 
 
 👉 Deployed on Cloudflare Page :
